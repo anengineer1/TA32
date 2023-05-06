@@ -1,0 +1,22 @@
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  top: 10%;
+  left: 100%;
+  margin-top: -1px;
+}
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+}
+    
+.upper_panel {
+    background-color: lightblue;
+}
+
+div.square {
+    height: 300px;
+    background-color: grey;
+}
